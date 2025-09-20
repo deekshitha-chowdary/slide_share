@@ -68,6 +68,6 @@ This project is licensed under the MIT License.
 
 - **Name:** Deekshitha Chowdary
 - **GitHub:** [deekshitha-chowdary](https://github.com/deekshitha-chowdary)
-- **Email:** deekshithachowdary@example.com
+- **Email:** kndeekshitha07@gmail.com
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out!
