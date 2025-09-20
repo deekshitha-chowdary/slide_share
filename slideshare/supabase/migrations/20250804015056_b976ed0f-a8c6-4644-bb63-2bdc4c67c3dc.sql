@@ -1,0 +1,2 @@
+-- Create edge function for Google Slides integration
+-- This will be implemented in the edge functions directory
